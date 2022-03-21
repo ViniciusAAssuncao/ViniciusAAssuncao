@@ -1,7 +1,7 @@
 Olá 🌎! Meu nome é Vinicius Assunção, sou estudande de **Desenvolvimento Full-Stack**.
 
 
-- 🔭 Me especializando, em busca de estágios no momento.
+- 🔭 Me especializando, em busca de uma vaga como júnior!
 - 🌱 Estudando React.js, Node.js, Express.js, Next.js e posteriormente irei masterizar JavaScript e Typescript.
 - 📫 Contate-me através de meu e-mail: volutab617@gmail.com
 
