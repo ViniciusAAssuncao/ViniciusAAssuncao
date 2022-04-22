@@ -2,7 +2,7 @@ Olá 🌎! Meu nome é Vinicius Assunção, sou estudande de **Desenvolvimento F
 
 
 - 🔭 Me especializando, em busca de uma vaga como júnior!
-- 🌱 Estudando React.js, Node.js, Express.js, Next.js e posteriormente irei masterizar JavaScript e Typescript.
+- 🌱 Estudando Angular 13 e C#.
 - 📫 Contate-me através de meu e-mail: volutab617@gmail.com
 
 <div align="center">
