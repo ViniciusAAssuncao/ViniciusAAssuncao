@@ -1,9 +1,9 @@
-Olá 🌎! Meu nome é Vinicius Assunção, sou estudande de **Desenvolvimento Full-Stack**.
+👨‍💻 Hi there! I'm Vinicius, a software developer at Audaces with a passion for creating great software using cutting-edge technologies. Here are some of my skills and expertise:
 
+💻 Angular | React.js | .NET | JavaScript | Node.js | Python | Express | GraphQL
+🔧 HTML/CSS | Relational and non-relational databases
 
-- 🔭 Me especializando, em busca de uma vaga como júnior!
-- 🌱 Estudando Angular 13 e C#.
-- 📫 Contate-me através de meu e-mail: volutab617@gmail.com
+🚀 Check out my Github page to see some of the cool projects I've been working on. I'm always looking for new challenges and opportunities to grow, so feel free to reach out to me at volutab617@gmail.com. Let's build something awesome together!
 
 <div align="center">
   <a href="https://github.com/ViniciusAAssuncao">
